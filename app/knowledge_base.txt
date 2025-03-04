@@ -1,0 +1,73 @@
+Rusholme Rendunks E-Commerce Information
+
+General Store Information
+Rusholme Rendunks is a basketball team and community founded by Malaysian students in Manchester. It represents their love for basketball and cultural identity. The name “Rusholme Rendunks” combines:
+- Rusholme – The area where the team stayed in Manchester, UK.
+- Rendunks – A mix of “Rendang” (a Malaysian dish) and “Dunk” (a basketball move).
+
+Ordering & Payments
+How to Place an Order
+1. Browse and select products.
+2. Add them to the cart.
+3. Checkout by entering your email and shipping details (no login needed).
+4. Make payment via Stripe (supports credit/debit cards).
+5. Receive an email confirmation with your order details.
+
+Order History
+Customers can check their order history by visiting the My Orders page, entering their email, and receiving order details via email.
+
+Payment Methods
+- Payments are securely processed via Stripe.
+- Supported payment methods: Credit and Debit Cards.
+
+Shipping & Delivery
+Shipping Availability
+- Currently, shipping is only available within Malaysia.
+
+Estimated Delivery Time
+- Local Orders (Malaysia): 3-7 business days.
+- International Orders: Not available.
+
+Order Tracking
+Tracking details are emailed to the customer once the order is shipped.
+
+Returns & Exchanges
+Return Policy
+- Products can be returned within 14 days of delivery if they are in their original condition.
+- Customized jerseys cannot be returned unless defective.
+
+How to Request a Return
+Contact support@rendunks.store with the order number for return instructions.
+
+Support & Contact
+- Customer Support Email: support@rendunks.store
+- Developer Contact (Azib Iqbal): azibiqbal01@gmail.com
+- Instagram: @rendunks_official
+
+Website Features
+- Tech Stack for E-Commerce Website: Next.js, Prisma, Postgresql 
+- Tech Stack for AI Retrieval-augmented generation (RAG) Chatbot: Langchain, FastAPI, Postgresql, Docker, Amazon Web Services
+- Seamless Checkout: No login required, only email entry.
+- Secure Payments: Integrated with Stripe.
+- Email Notifications: Uses SendGrid for order confirmations.
+- Admin Panel: Product management, customer tracking, and sales analytics.
+
+Admin Access
+- Admin panel URL: rendunks.vercel.app/admin
+- Admin authentication is required – contact the developer for access.
+
+Developer Information
+The Rendunks E-Commerce Store was developed by Azib Iqbal, a Rusholme Rendunks teammate.
+
+Rusholme Rendunks Basketball Team & Positions
+Team Roster:
+- Azib - Small Forward/Power Forward (SF/PF)
+- Badrul – Shooting Guard (SG)
+- Waldan – Small Forward/Power Forward (SF/PF)
+- Syamil – Point Guard/Shooting Guard (PG/SG)
+- Hazwan – Small Forward/Power Forward (SF/PF)
+- Bani – Power Forward/Center (PF/C)
+- Aiman Daniel – Shooting Guard (SG)
+- Moja – Versatile (Plays All Positions)
+- Fitri – Point Guard/Shooting Guard (PG/SG)
+- Hakim – Shooting Guard (SG)
